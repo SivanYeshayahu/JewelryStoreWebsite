@@ -1,0 +1,11 @@
+# Project exclude paths
+/AppData/Local/GitHubDesktop/app-3.0.0/resources/app/node_modules/
+/AppData/Local/JetBrains/WebStorm 2021.1/plugins/JavaScriptLanguage/helpers/package-version-range-matcher/node_modules/
+/AppData/Local/JetBrains/WebStorm 2021.1/plugins/spy-js/server/node_modules/
+/AppData/Local/SquirrelTemp/tempa/lib/net45/resources/app/node_modules/
+/AppData/Local/Yarn/Cache/v6/npm-@tensorflow-tfjs-converter-1.3.1-integrity/node_modules/@tensorflow/tfjs-converter/dist/src/data/compiled_api.d.ts
+/AppData/Local/Yarn/Cache/v6/npm-@tensorflow-tfjs-converter-1.3.1-integrity/node_modules/@tensorflow/tfjs-converter/dist/src/data/compiled_api.js
+/AppData/Local/Yarn/Cache/v6/npm-@tensorflow-tfjs-converter-1.3.1-integrity/node_modules/@tensorflow/tfjs-converter/dist/src/data/compiled_api.js.map
+/AppData/Roaming/Unity/Packages/node_modules/
+/Desktop/2019.4.40f1/Editor/Data/Tools/nodejs/node_modules/
+/Desktop/לימודים/מצגות סופיות תואר/שנה ב/2019.4.28f1/Editor/Data/Tools/nodejs/node_modules/
